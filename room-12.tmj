@@ -8009,7 +8009,7 @@
             {
               "name": "exitUrl",
               "type": "string",
-              "value": "https://play.workadventu.re/@/workspacesky/hope-brain-trust/hope-brain-trust.json#entry-room-12"
+              "value": "https://play.workadventu.re/@/workspacesky/hope-brain-trust/hope-brain-trust#entry-room-12"
             }
           ],
           "rotation": 0,
@@ -10024,7 +10024,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "room-12-chunk-1-460f769f.png",
+      "image": "room-12-chunk-1-548312c3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10050,7 +10050,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "room-12-chunk-2-460f769f.png",
+      "image": "room-12-chunk-2-548312c3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10065,7 +10065,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "room-12-chunk-3-460f769f.png",
+      "image": "room-12-chunk-3-548312c3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10080,7 +10080,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "room-12-chunk-4-460f769f.png",
+      "image": "room-12-chunk-4-548312c3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10095,7 +10095,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "room-12-chunk-5-460f769f.png",
+      "image": "room-12-chunk-5-548312c3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10110,7 +10110,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "room-12-chunk-6-460f769f.png",
+      "image": "room-12-chunk-6-548312c3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10125,7 +10125,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "room-12-chunk-7-460f769f.png",
+      "image": "room-12-chunk-7-548312c3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10140,7 +10140,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "room-12-chunk-8-460f769f.png",
+      "image": "room-12-chunk-8-548312c3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10155,7 +10155,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "room-12-chunk-9-460f769f.png",
+      "image": "room-12-chunk-9-548312c3.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10170,7 +10170,7 @@
     {
       "columns": 11,
       "firstgid": 2305,
-      "image": "room-12-chunk-10-460f769f.png",
+      "image": "room-12-chunk-10-548312c3.png",
       "imageheight": 352,
       "imagewidth": 352,
       "margin": 0,
